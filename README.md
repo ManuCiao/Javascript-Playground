@@ -15,6 +15,7 @@ Exercises && Notes
 - [exercism](http://exercism.io/tracks/javascript/exercises)
 - [freeToCode](https://www.freecodecamp.com/challenges/)
 - [Hackerrank](https://www.hackerrank.com/)
+- [Javascript30](https://javascript30.com/)
 
 ### Build Apps:
 - [Countdown event](https://www.lynda.com/JavaScript-tutorials/Linking-necessary-JavaScript-files/373559/407359-4.html)
