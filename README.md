@@ -16,6 +16,14 @@ Exercises && Notes
 - [freeToCode](https://www.freecodecamp.com/challenges/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [Javascript30](https://javascript30.com/)
+- [NodeSchool](https://nodeschool.io/) tutorials to be installed on your laptoop such as:
+    
+```
+npm install -g functional-javascript-workshop
+npm install -g planetproto
+npm install -g tower-of-babel    -learn ES6 features
+npm install -g regex-adventure
+```
 
 ### Build Apps:
 - [Countdown event](https://www.lynda.com/JavaScript-tutorials/Linking-necessary-JavaScript-files/373559/407359-4.html)
@@ -37,6 +45,11 @@ Exercises && Notes
 
 ### Testing:
 - [Intro TDD](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Welcome/124398/137955-4.html)
+- [NodeSchool](https://nodeschool.io/) tutorials to be installed on your laptoop such as:
+    
+```
+npm install -g test-anything
+```
 
 ### Cheatsheet:
 - [The Ultimate JavaScript Cheat Sheet](https://www.codementor.io/johnnyb/tutorials/javascript-cheatsheet-fb54lz08k)
