@@ -1,23 +1,21 @@
-var DnaTranscriber = function(){};
+function DnaTranscriber(){
 
-DnaTranscriber.prototype.toRna = function toRNA(dna) {
-    var rnaString = [];
-        for (var i=0; i < dna.length; i++) {
-        switch(dna[i]) {
-            case 'G':
-                rnaString.push('C');
-                continue;
-            case 'C':
-                rnaString.push('G');
-                continue;
-            case 'T':
-                rnaString.push('A');
-                continue;
-            case 'A':
-                rnaString.push('U');
+    this.toRna = function(dna){
+        var dnaMap = {
+          'A' : 'U',
+          'G' : 'C',
+          'C' : 'G',
+          'T' : 'A'
+        };
+
+        var result = [];
+
+        for(var i = 0; i < dna.length; i++){
+           result.push(dnaMap[dna[i]]);
         }
-    }
-    return rnaString.join('');
-};
+
+        return result.join("");
+    };
+}
 
 module.exports = DnaTranscriber;
