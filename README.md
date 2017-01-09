@@ -1,4 +1,4 @@
-# Javascript Playground && Prepations for JS interview
+# Javascript Playground && Prepation for JS interview
 
 An incredible list of books, tutorials, practical exercises, test framework and tutorials and cheatsheet of Javascript. Also checkout some links that will help you to give a great performance at an interview for a JS developer role.
 
