@@ -1,0 +1,25 @@
+{
+  "name": "ewpressworkshop",
+  "version": "1.0.0",
+  "description": "espressworkshop using node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CMS, node,js,blogging"
+  },
+  "keywords": [
+    "CMS",
+    "node",
+    "js",
+    "blogging"
+  ],
+  "author": "Manuela Sabatino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-formidable": "^1.0.0"
+  }
+}
